@@ -2098,3 +2098,302 @@ MARGUERIT: Stand down, Chief, I'm just lookin'. If it were goin' to crumble to d
 BAAT: It's glowing.
 PAAL: It's still powered? Someone else was here recently.
 BAAT: Either that, or so long ago that no one remembers.",
+
+
+//Incorporate damage to the seabase, plants in growers, windows, water filter(!), next set of technologies...
+
+
+///////////////////////////
+////////DEEP SEABASE///////
+///////////////////////////
+
+"Ency_DeepPDABase3" : "Degasi Voice Log #7",
+"EncyDesc_DeepPDABase3" : "BAAT: Stop it, both of you! We're sick.
+MARGUERIT: What?
+PAAL: How?
+BAAT: You've been coughing, right? Feeling itchy?
+MARGUERIT: Yeah.
+BAAT: We've been sick since we started breathing the air.
+PAAL: The suit biometrics would have warned us.
+BAAT: It's something new. A bacterial infection.
+MARGUERIT: What does it do?
+BAAT: Nothing much, so far. But it's smart. With enough time I think it could begin altering our genetic structure. Things get gross after that.
+PAAL: What can you do?
+BAAT: I think I can slow it down. 
+PAAL: How did you find it?
+BAAT: It's everywhere, I just couldn't see it. Everything on this planet is infected. It's pretty much just part of the ecosystem.
+MARGUERIT: How bad can it be if everything's got it?
+BAAT: The local lifeforms must have developed coping mechanisms. We haven't.
+PAAL: Yet. You have my full faith, son, that you'll figure this out for us.
+MARGUERIT: Tell me what you need, kid.",
+
+
+
+
+///////////////////////////
+//////STARTING ENTRIES/////
+///////////////////////////
+
+"Ency_Lifepod" : "Standard 2-Berth Emergency Lifepod",
+"EncyDesc_Lifepod" : "Weight: 576 kg
+Dimensions: 3m x 3m
+
+Standard Features: 
+- Low density, high strength construction
+- Onboard air-break, flotation devices and thrusters, for land, sea or space recovery
+- Short-range communications relay (250km uninterrupted range)
+- Solar power
+- Wall-mounted fabricator
+- Multiple exits
+
+Standard Provisions:
+2x All-Environment Protection Suit
+1x Handheld spectroscope scanner
+3x Ready-to-eat rations
+3x 1L drinking water provision
+1x Emergency medkit
+1x Flashlight
+1x Emergency flare
+1x Assorted replacement parts",
+
+            "Ency_Readme" : "Readme",
+"EncyDesc_Readme" : "If you are reading this, then you have survived an emergency evacuation of a capital-class ship equipped with Alterra technology. Congratulations: the hard part is over. 
+
+Your PDA has automatically rebooted in Emergency Mode. This operating system has one purpose: to keep you alive. It features:
+
+- Full integration with user biometrics for timely survival advice
+- Blueprints for fabricating a range of essential survival equipment
+- Onboard microphone, camera and OCR technology for short-range (20m) situational analysis
+- Cross-compatibility with the Alterra handheld spectroscope scanner
+
+Follow its directions and we will bring you home alive.
+
+NB Your personal and work files have been encrypted and may be retrieved at a later date by a licensed engineer.",
+
+            "Ency_SurvivalChecklist" : "Survival Checklist",
+"EncyDesc_SurvivalChecklist" : "1. Administer first aid if required
+2. Survey the environment
+3. Locate other survivors
+4. Assess food and water availability and decide on rations
+5. Check lifepod for damage, and repair as necessary
+6. Broadcast local distress signal using lifepod's short-range communications relay
+7. Gather and take stock of available materials
+8. Use survival equipment to render the local environment habitable
+9. Maintain physical and psychological health until rescue
+
+NB This information is meant as a general guide. In the first instance you should always follow the advice of your PDA, which has taken your particular circumstances into account.",
+
+
+            "Ency_AuroraOverview" : "Aurora Mining Vessel Overview",
+"EncyDesc_AuroraOverview" : "Mission: 3 year exploratory mining operation
+Crew: Command Team (11), Engineering Team (57), Support Crew (30), Passengers (3)
+
+Facilities:
+- Dark-matter ion drive V8
+- Engineering section with A Grade facilities (incl primary meteor cracker, manned robotics suite and full scanner range)
+- 0.25 cubic kilometers storage for mined resources
+- Habitation section with C+ Grade leisure facilities.",
+
+//Question: What is cannon for what the player is wearing on their face by default? Is there a mask? A helmet? Nothing?
+
+            "Ency_AEPSuit" : "All-Environment Protection Suit",
+"EncyDesc_AEPSuit" : "The Alterra AEP Suit: A single solution for a universe of infinite danger
+
+You are currently wearing the AEP suit - a hermetically-sealed personal environment, designed to withstand the most extreme conditions in the known universe.
+
+- Onboard temperature and hydration regulation
+- Compatible with a range of modifications for particular environments
+- Slimline build for maximum freedom of movement
+- Biometric sensors
+- Contextual heads-up display
+
+AEP suits should always be equipped BEFORE lifepod launch in case of hull breach.",
+
+
+
+///////////////////////////
+//SAFE SHALLOWS ENTRIES////
+///////////////////////////
+
+//Scan the scanner
+
+
+    "Ency_MetalSalvage" : "Structural Analysis: Scattered Wreckage",
+"EncyDesc_MetalSalvage" : "Analysis confirms this wreckage is from the Aurora. 
+
+Outer layers of the material have oxidized, suggesting it has been heated to over 1200 Celsius. This pattern is consistent with hull disintegration during atmospheric entry. Inner layers contain enough residual titanium to be reclaimed at the fabricator.",
+
+    "Ency_Airsack" : "Airsack",
+"EncyDesc_Airsack" : "1. Semi-permeable membrane: Body consists of an oxygen- and water-filled, semi-permeable membrane. No oral cavity detected. Membrane may filter plant matter from the water.
+
+2. Open-ended vascular tubing: Can be angled and contracted to pump out water and achieve low-velocity, guided propulsion. No fins identified.
+
+3. Mostly oblivious to threats, its only identified defense mechanism: it is 95% cartilage.
+
+Assessment: Membrane may have applications as a natural water filter",
+
+    "Ency_RabbitRay" : "Rabbit Ray",
+"EncyDesc_RabbitRay" : "A herbivorous aquatic lifeform with highly poisonous flesh.
+
+1. Undulating wings: Main mode of transportation.
+
+2. Poisonous flesh: Large and without other defense mechanisms, the rabbit ray appears to have evolved poisonous flesh to ward off predators.
+
+3. Diet: Grasses and kelps.
+
+Assessment: Inedible but friendly",
+
+    "Ency_AcidMushroom" : "Acid Mushroom",
+"EncyDesc_AcidMushroom" : "A common, spore-bearing fungi species, with developed defense mechanisms. The flesh contains a highly acidic compound which leaches into the water if the outer skin is penetrated. Fluctuations in the local water pressure may also cause it to shrink. 
+
+It is not clear which predator species necessitated such extreme counter-measures, but the acid mushroom's numbers suggest it has successfully deterred most of them.
+
+Assessment: Inedible, but exploitable in battery fabrication if picked carefully",
+
+
+    "Ency_LimestoneOutcrops" : "Limestone Outcrops",
+"EncyDesc_LimestoneOutcrops" : "These unusual geological structures often form around titanium and copper deposits, and are distinct to this planet. Closer analysis reveals the stone around the metal has been hardened against erosion, but the mechanism remains unknown.
+
+Assessment: Titanium and copper source",
+
+    "Ency_SandstoneOutcrops" : "Sandstone Outcrops",
+"EncyDesc_SandstoneOutcrops" : "These common, porous outcrops seem to form around small amounts of precious metals, or otherwise these metals are part of a sedimentary buildup over time.
+
+Assessment: Silver and gold source",
+
+    "Ency_ShaleOutcrops" : "Shale Outcrops",
+"EncyDesc_ShaleOutcrops" : "This sedimentary rock is formed from flakes of clay minerals, inside of which rare metals such as lithium can be found. Geological conditions on this planet mean it tends to be found in deeper biomes.
+
+Assessment: Gold and lithium source",
+
+    "Ency_BasaltOutcrops" : "Basalt Outcrops",
+"EncyDesc_BasaltOutcrops" : "Hard, igneous rock, formed by past volcanic activity. Likely to contain very rare minerals, such as diamond and uranium, which cannot be found elsewhere.
+
+Assessment: Gold, diamond and uranium source",
+
+    "Ency_BrainCoral" : "Purple Brain Coral",
+"EncyDesc_BrainCoral" : "A permanent, growing colony of microscopic organisms. This coral species has adapted to filter carbon dioxide from the environment, using the carbon to build the colony, and expelling the oxygen from specialized exhaust funnels.
+
+Assessment: Exploitable",
+
+
+    "Ency_Peeper" : "Peeper",
+"EncyDesc_Peeper" : "1. Overdeveloped, side-mounted eyes: Well-adapted to recognize and flee its many predators. Also rich in protein.
+
+2. Powerful tail fin: Enables rapid acceleration, and the ability to leap meters out of the water. 
+
+3. Narrow dorsal fins: Enhance maneuverability.
+
+Reliance on visually identifying predators may leave it vulnerable in low-light environments.
+
+Assessment: Edible and substantial - if you can catch it",
+
+
+    "Ency_Boomerang" : "Boomerang",
+"EncyDesc_Boomerang" : "1. Twin-fins: Unusually, this species' two fins are a cartilaginous extension of its skeleton. Less prone to damage, harder to grow back.
+
+2. Serrated teeth: Suggests adaptation for grinding coral. 
+
+3. More active during daylight hours, and prone to flee on approach.
+
+Assessment: Edible, meager but reliable",
+
+
+    "Ency_Garryfish" : "Garryfish",
+"EncyDesc_Garryfish" : "Slow-moving and curious herbivore.
+
+1. Camouflage indicates adaptation for evasive behavior on the ocean floor.
+
+2. Eye stalks may be beneficial when watching for predators from hiding places amongst the coral.
+
+3. Large stomach cavity: Feeds all day during daylight hours, leaving very little edible meat.
+
+Assessment: Not as edible as it looks",
+
+
+    "Ency_Shuttlebug" : "Shuttlebug",
+"EncyDesc_Shuttlebug" : "1. Three legs: High strength muscles can propel the lifeform great distances through the water, as well as ambulating them across the sea floor.
+
+2. Three mandibles: Used to orient themselves when drifting, and to filter through detritus on cave floors. Their presence may indicate a nearby cave system.
+
+Assessment: Essential recycler in the food chain",        
+
+    "Ency_Gasopod" : "Gasopod",
+"EncyDesc_Gasopod" : "A slow-moving lifeform capable of filling the water with a poisonous and corrosive compound capable of dissolving even synthetic fibers. 
+
+1. Algae gland - A bulbous, sack-like appendage on the rear end. A species of luminescent yellow algae grows inside the sack and produces the poisonous compound.
+
+2. Abdominal muscles: Contract when the creature is frightened, causing the gland to emit the noxious compound into the surrounding water.
+
+3. Filtration system: Multiple gill layers appear to render this creature impervious to the noxious clouds it produces.
+
+Assessment: Avoid",
+
+
+        "Ency_Floater" : "Floater",
+"EncyDesc_Floater" : "Evolutionary abnormality. Further research required.
+
+1. Dominant lifeform: Structural analysis reveals that this entity is made up of two separate species. The pink main body and inner jaws are the dominant creature.
+
+2. Microorganism membrane: The outer, gel-like substance is a mesh of microorganisms capable of forming a sealed vacuum around the creature's jaws.
+
+3. Air buffer: A thin layer of helium is stored within the outer membrane, providing buoyancy.
+
+Lifeform has been observed almost exclusively attaching to large boulders. Appears entirely vulnerable to artificial detachment, and indiscriminate in what it is re-attached to.
+
+Assessment: More information needed",
+
+
+                "Ency_Holefish" : "Holefish",
+"EncyDesc_Holefish" : "1. Coloration suggests adaptation for cave environments.
+
+2. Bored-out Tail Fin: By manipulating the size and shape of the hole in its tail it can perform unpredictable maneuvers.
+
+Smaller than most other herbivores, presumably due to lack of vegetation in low-light environments. Shows little fear of predators. 
+
+Assessment: Edible, reliable cave food",
+
+
+                "Ency_CaveCrawler" : "Cave Crawler",
+"EncyDesc_CaveCrawler" : "Agile, territorial carrion-feeder. 
+
+1. Four legs: Used to walk along the seabed and cling to walls. Equally well adapted for land. 
+
+2. Gas exchange membrane: Absorbs essential gases from the air or water.
+
+This species seeks out corpses in packs, before defending its claim while the corpse is devoured.
+
+Assessment: Inconvenient, particularly at funerals",
+
+
+                "Ency_TableCoral" : "Table Coral",
+"EncyDesc_TableCoral" : "Each disk is an individual colony of microorganisms, filtering nutrients from the water flowing past. 
+
+Growth patterns indicate the colonies are in direct competition for positions with superior current or light. Unlike other coral species its structure is malleable, softly pulsating as it pumps nutrients to its extremities, and only turning rigid when it senses physical assault.
+
+The jewel-like nodes in the surface are concentrated build-ups of rare minerals the coral is unable to process.
+
+Assessment: Exploitable in computer chip fabrication",
+
+
+                "Ency_HangingStinger" : "Drooping Stinger",
+"EncyDesc_HangingStinger" : "1. Zero photosynthetic cells detected. Implies carnivorous adaptation to low-light environments. 
+
+2. Follicles along the tentacles capable of detecting contact with foreign bodies, triggering an electromagentic charge in the 600 watt range. Prey is likely paralyzed and consumed over many weeks.
+
+Prey: Small fish
+
+Assessment: Avoid",
+
+                "Ency_Hoopfish" : "Hoopfish",
+"EncyDesc_Hoopfish" : "1. Small size, school mentality, prey fish.
+
+2. Antennae: Rather than swimming this lifeform uses the fine green antennae which encircle its body to alter the composition of the water in front of it, allowing it to 'sail' into the low density space created.
+
+Assessment: Edible but meager",
+
+        "Ency_CoralSample" : "Common Corals",
+"EncyDesc_CoralSample" : "The giant coral tubes and slanted shell plates appear to be different solutions to the same problem of maximizing water and nutrient flow throughout the colony. Despite external differences these structures are built by very similar organisms on similar principles. Samples are rich in calcium.
+
+Assessment: Exploitable in bleach fabrication",
+
