@@ -1498,3 +1498,203 @@
 ///////////////////////////////////////////////////////
 ////////////////// RADIO //////////////////////////////
 ///////////////////////////////////////////////////////
+
+        "RadioBounceBack" : "This is an automated bounce back from the Aurora Mining Vessel. Your distress signal has been received. An emergency relief team will be dispatched to your location. *Static* Estimated arrival time: 9...9...9...9...9 hours.",
+        "RadioLifepod17" : "This is an automated distress signal from Aurora Lifepod 17. Co-ordinates attached. Please send immediate emergency relief team.",
+    "RadioSecondOfficer" : "This is Second Officer Keen, broadcasting to all surviving Aurora crew! Captain Hollister is gone. I have assumed command. The computer has identified dry land approximately 750m south of the crash site. Your orders are to stay together, ensure your immediate safety, and then regroup at the attached rendezvous co-ordinates. Good luck. Over and out.",
+        "RadioWarper1" : "Nine new biological subjects designated. Mode switch: hunting/analyzing. Sharing subject locations with other agents.",
+    "RadioLifepod7" : "This is Aurora Senior Engineer LaFette, broadcasting from Lifepod 7! We have survived impact, but flotation devices have failed to deploy and we are sinking! Co-ordinates attached! Will attempt repair! Anticipate losing radio contact at- *Static*",
+    "RadioWarper2" : "Subject 11783 destroyed. Mode switch: patrol. New targets unaccounted for: 1.",
+           "RadioPrecursor1" : "Karflaget gertrupop flayra. Troflagot e aitrart. Trankeboop. Askrinol forlaget yarma aquit e flyra e aitrart escimay.",
+           "RadioPassingShip" : "This is trade vessel Sunbeam. Aurora, we've received your emergency transmission and your co-ordinates have been recorded. Wish we had better news for you, but we just aren't equipped to assist you at this time. We're anticipating arrival at the nearest starbase in approximately 461 earth days, that's four, six, one days. We will at that time pass on your emergency message to the appropriate corporate authority. You hold on in there, alright? Sunbeam out.",
+
+
+///////////////////////////////////////////////////////
+///////// LIFEPOD SCREEN //////////////////////////////
+///////////////////////////////////////////////////////
+
+
+
+    // Initial state before fire, during lifepod launch
+    "IntroEscapePod1Header": "LAUNCH SEQUENCE ACTIVE!",
+    "IntroEscapePod1Content": "Detachment from Aurora: OK.
+Crew restraints: secure.
+Entering planetary atmosphere.
+G-force approaching hazardous levels.
+Brace for impact.",
+    "IntroEscapePod1Power": "POWER CELLS 1-3 ONLINE",
+
+    // On fire
+    "IntroEscapePod2Header": "EMERGENCY!",
+    "IntroEscapePod2Content": "Collision detected.
+Flotation devices deployed.
+Fire detected in lifepod interior.
+CO2 approaching hazardous levels.
+Secondary systems: offline.
+Hatches: malfunctioning.",
+    "IntroEscapePod2Power": "MAIN POWER OFFLINE",
+
+    // Fire out, panel unfixed
+    "IntroEscapePod3Header": "WARNING!",
+    "IntroEscapePod3Content": "Multiple errors detected in lifepod power systems.
+Circuitry test: failed.
+Secondary systems: offline.
+Gravity anchor: offline.
+Lifepod hull integrity: OK.",
+    "IntroEscapePod3Power": "POWER CELLS 1-3 ONLINE",
+
+    // Panel fixed
+    "IntroEscapePod4Header": "STATUS: OK",
+    "IntroEscapePod4Content": "Hull integrity: OK.
+Secondary systems: online
+Gravity anchor: online.
+Lifepod hull integrity: OK.
+Scanning all emergency frequencies.",
+    "IntroEscapePod4Power": "MAIN POWER ONLINE",
+
+///////////////////////////////////////////////////////
+///////// STORY ///////////////////////////////////////
+///////////////////////////////////////////////////////
+
+    //This is played just before the Aurora explodes, but the subtitle is currently missing.
+        "Story_AuroraWarning4" : "Emergency: Seismic readings suggest a quantum detonation has occurred in the Aurora's drive core. The reactor will reach a super critical state in T- 10, 9, 8, 7, 6, 5, 4, 3, 2, 1-",
+
+    "Story_AuroraWarning3" : "Warning. Local radiation readings exhibit characteristics consistent with total degradation of the Aurora's dark matter drive core. A quantum detonation will occur with a probability of 85.5%. Advise observing a 1km safety range.", 
+
+        "Story_AuroraWarning2" : "Caution. Continued degradation of the Aurora's drive core may cause a quantum detonation. If the drive core is breached, probability of death by exposure to radioactive crash site materials increases to 37%.",
+
+        "Story_AuroraWarning1" : "Detecting increased local radiation levels. Trend is consistent with ongoing degradation of the Aurora Mining Vessel's dark matter drive core, due to damage sustained during collision. Continuing to monitor.",
+
+
+///////////////////////////
+////// INTRO //////////////
+///////////////////////////
+
+        "Goal_Lifepod1": "Initializing PDA in Emergency Mode. Biometrics connected. Life pod systems connected. Performing situational analysis.",
+        "Goal_Lifepod2": "The Aurora Mining Vessel has suffered catastrophic hull failure. Cause: unknown. Zero human life signs detected in 100m range.",
+        "Goal_Lifepod3": "Time: 3 hours since planetfall. Life pod condition: hull secure. Communications: offline.",
+        "Goal_Lifepod4": "Environment: Uncharted ocean planet. Oxygen Nitrogen atmosphere. Water contamination: high.",
+        "Goal_Lifepod6": "Reference information has been added to the PDA Data Bank. Advice will be issued as necessary. Good luck.",
+
+        "Goal_Intro1":"Broadcasting of automated short-range distress signal failed. Life pod communications relay offline.",
+        "Goal_Intro2": "Life pods are equipped with a fabricator programmed to construct tools, and render organic substances edible.",
+        "Goal_HolyDiver": "You've been down too long in the midnight sea. Oh don't you see what I mean?",
+
+///////////////////////////
+// PROGRESS (1-2HRS) //////
+///////////////////////////        
+//Intro plays
+//Player leaves lifepod, collects fish, metal and quartz
+
+        "Goal_Airsack": "Spectroscopic analysis of organisms is highly recommended before contact.",
+
+        "Goal_Titanium": "Titanium: discovered. Titanium is a versatile and essential construction material.",
+
+//        "Goal_AcidMushroom": "The fabricator, or handheld scanner, can be used to analyze alien substances for industrial applications.",
+
+        "Goal_Quartz": "Quartz: discovered. Quartz is used in fabricating basic survival equipment, and long-term habitats.",
+
+        "Goal_Copper": "Copper ore: discovered. Copper is the essential component of all powered equipment. Your probability of survival has increased by 7.6%.",
+
+        "Goal_FilteredWater": "Indigenous lifeforms may have evolved practical methods of filtering contaminants from the water supply.",
+
+        "Goal_CookedPeeper": "The fabricator cooks small organisms, while removing the skeletal structure, bodily fluids and internal organs, thus rendering them safe for human consumption.",
+
+        "Goal_Scanner": "The handheld spectroscope scanner can be used to synthesize blueprints from salvaged technology, and to record alien biological data.",
+
+        "Goal_Fins": "The fabricator draws from available data, to provide context-appropriate equipment, using locally available materials. For your safety this setting cannot be overridden.",
+
+        "Goal_Knife": "The knife has been an essential tool of the human race, for approximately two and a half... million years. It is recommended that you look after this one.",
+
+        "Goal_Tank": "Carrying multiple oxygen tanks will increase your survivable exposure time in hostile environments.",
+
+//Player is now ready to stockpile copper and other basic supplies for more advanced equipment
+
+//        "Goal_CopperWire": "Reviewing user status. Nutrient and hydration levels: okay. You have successfully fabricated appropriate tools and resources, to secure short-term survival. Continue to monitor the Aurora for threats and opportunities, and prepare for rescue.",
+
+        "Goal_Battery": "The fabricator has substituted standard battery acid for an acidic compound synthesized from local flora.",
+
+        "Goal_Bleach": "Bleach is an essential chemical used for cleaning wounds and purifying water.",
+
+        "Goal_CookedGarryfish": "It is normal, to be repulsed by the thought, of eating a dead animal. But it is best to remember, that humans survived adequately without synthetic foods for many years. You, can, too.",
+
+        "Goal_CookedHoverfish": "If you are accustomed to conventional foods, consider disguising the flavor of indigenous meats, with locally sourced herbs and spices.",
+
+        "Goal_PurifiedWater": "Preparing the day's water ration, ahead of time, will help ensure against dehydration, and eventual death.",
+
+        "Goal_Silver": "Silver ore: discovered. Silver-based computer chips are an essential component of the radiation suit, and habitat builder.",
+
+        "Goal_Lubricant": "Lubricant is essential in construction of vehicles and power plants. Utilizing alien substitute materials in this manner is a proven survival strategy.",
+
+        "Goal_Beacon": "Exploring and charting the environment should not be undertaken without appropriate equipment and supplies. You should stay within 2km of a life pod or habitat at all times.",
+
+        "Goal_Seaglide": "The seaglide increases maximum underwater velocity to 9.5m/s, and displays local topographical information.",
+
+
+///////////////////////////
+// PROGRESS (2-4HRS) //////
+///////////////////////////        
+
+//Pacing is less controlled now. Copper and fragments likely still the main drive. Player is starting to think about habitats, submersibles and the Aurora.
+
+        "Goal_Builder": "The builder is designed to construct habitats capable of withstanding extreme environmental conditions.",
+
+        "Goal_EnameledGlass": "Natural substrate for manufacture of enameled glass: discovered. Construction of advanced submersibles and habitat modules is now possible.",
+
+//airbladder
+//waterproof storage (& maybe basic upgrades)
+
+//aiming for (known but locked): 
+//rad suit (ledx2 = 6xcopper, 2xsilver)
+//constructor (MVB) (tit ingot, lubricant, power cell)
+//seamoth (power cell, glassx2, 3xtit, lubricant
+
+
+//known but locked: base reinforcement, foundation, window
+
+
+
+///////////////////////////
+// LATE GAME PROGRESS /////
+///////////////////////////        
+
+//hidden techs:
+//habitat: moonpool, glass habitat modules, ladder(?!), bulkead, adv reactors, workbench, lockers, advanced features (farming etc), signs etc
+//personal: still suit, reinforced suit, srifle, prifle, airbladder, dive reel, rebreather
+//upgrades: heat knife, plasteel tank, charge fins, repulsion cannon
+
+
+
+
+
+
+///////////////////////////
+////// AURORA /////////////
+///////////////////////////
+
+        "Goal_LocationAuroraEntry": "Warning, structural integrity unknown. Exploration is not advised.",
+        "Goal_LocationAuroraFurtherIn": "Trace human remains detected in nearby organics' digestive systems. Further exploration not advised.",
+        "Goal_BiomeCrashedShip": "Detecting an extended debris field.",
+        "Goal_LocationAuroraInterior": "87% of the habitable sections of the ship were rendered uninhabitable during the detonation.",
+        "Goal_LocationAuroraHallway": "Assessing internal damage. Damage pattern inconsistent with internal malfunction. Aurora blackbox device not found.",
+        "Goal_LocationAuroraDriveEntry": "Checking drive core damage against Aurora impact velocity. Calculations suggest collision was of insufficient magnitude to cause a core breach.",
+        "Goal_Location AuroraDriveInterior": "Aurora blackbox device found. Attempting to download. Encountering interference. Warning, radiation at maximum tolerable level.",
+
+        "RadiationFixed": "Drive core breach sealed. Radiation dissipation in 3 days. Trying download attempt with Aurora blackbox device. Encountering interference.",
+        "RemainingRadiationLeaks": "Radiation leaks remaining: {0}",
+
+
+
+
+///////////////////////////////////////////////////////////
+///// ENCYCLOPEDIA ////////////////////////////////////////
+///////////////////////////////////////////////////////////
+
+
+
+
+    // Encyclopedia Path Nodes
+          "EncyPath_Aurora" : "Aurora",
+        "EncyPath_Tech" : "Technical",
+    "EncyPath_Welcome" : "Welcome",
+        "EncyPath_Tech/Habitats" : "Habitats",
