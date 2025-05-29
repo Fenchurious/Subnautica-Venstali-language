@@ -1698,3 +1698,203 @@ Scanning all emergency frequencies.",
         "EncyPath_Tech" : "Technical",
     "EncyPath_Welcome" : "Welcome",
         "EncyPath_Tech/Habitats" : "Habitats",
+        "EncyPath_Tech/Equipment" : "Equipment",
+        "EncyPath_Lifeforms" : "Alien Lifeforms",
+        "EncyPath_Lifeforms/Coral" : "Coral",
+    "EncyPath_Lifeforms/Fauna" : "Fauna",
+    "EncyPath_Lifeforms/Flora" : "Flora",
+    "EncyPath_Lifeforms/Fauna/Herbivores" : "Herbivores",
+    "EncyPath_Lifeforms/Fauna/Carnivores" : "Carnivores",
+        "EncyPath_Lifeforms/Fauna/Scavengers" : "Scavengers & Parasites",
+    "EncyPath_PlanetaryGeology" : "Planetary Geology",
+        "EncyPath_Advanced" : "Advanced Theories",
+        "EncyPath_DownloadedData" : "Data Downloads",        
+    "EncyPath_DownloadedData/Degasi" : "Degasi Survivors",
+    "EncyPath_DownloadedData/Lifepods" : "Lifepods",
+    "EncyPath_DownloadedData/AuroraSurvivors" : "Aurora Survivors",    
+
+
+   // Encyclopedia Entries
+    "Ency_CuteFish" : "Cute Fish",
+    "EncyDesc_CuteFish" : "Cute Fish Description",
+
+
+//////////////////////////////////////////
+//////AURORA WRECKAGE MONGOLIAN TEXTS/////
+//////////////////////////////////////////
+
+"Ency_WreckAuxOrders" : "Aurora Auxiliary Mission Orders",
+"EncyDesc_WreckAuxOrders" : "SENIOR PERSONNEL ONLY
+
+Mission type: Search & Rescue
+Mission target: Crew of the Mongolian Empire vessel 'Degasi'
+Mission location: Ariadne Arm, 3 light years beyond furthest phasegate
+Mission contact: Emissary Jochi Khasar, Aurora Passenger Quarters, Room 4
+
+Mission brief:
+Aurora is due to pass through System 2001 approximately 13 months post-launch. The Aurora is scheduled to perform a gravity slingshot maneuver around planet 4546B. This will bring you within range of the Degasi's last known position.
+
+The Mongolian Empire lost contact with private vessel 'Degasi' 18 months after it left colonized space. The Empire has purchased passage aboard Aurora for Emissary Khasar, and your orders are to afford him every reasonable facility to locate and, if appropriate, retrieve Degasi crewmembers, without compromising the primary mission.
+
+Degasi crew manifesto has been distributed to senior officers in a separate data package.
+
+Mission classification:
+Aurora crew should not be informed of this mission until such time as their co-operation in locating or retrieving Degasi crew is required. It should be stressed that humanitarian auxiliary missions fall outside normal remuneration structures.",
+
+
+"Ency_PaalTorgalBio" : "Search & Rescue: Paal Torgal ",
+"EncyDesc_PaalTorgalBio" : "SENIOR PERSONNEL ONLY
+
+Auxiliary Search & Rescue Target: Paal Torgal
+Position: Chief Executive Officer of Torgaljin Corp, Captain of the 'Degasi'
+Status: Lost in space, Ariadne Arm
+Age at time of disappearance: 79
+
+Paal Torgal and his crew fell out of contact with Mongolian authorities ten years ago while travelling through System 2001. The vessel was insured for opportunistic search and rescue, and multiple vessels passing through the system have since attempted to trace the ship to no effect.
+
+    - Made majority shareholder in Torgaljin Corp. by his mother upon her retirement
+    - Interaction with Alterra limited to infrequent chartered munitions deliveries
+    - Beneficiary of life extension technologies
+    - Accompanied by his only child, Baat Torgal (19), heir to the Torgaljin Coproration
+    - Mongolian emissary Khasar reports Torgal frequently travelled with fewer than the minimum skeleton crew
+    - Inadequate systems maintenence may account for the ship's disappearance",
+
+
+"Ency_BaatTorgalBio" : "Search & Rescue: Baat Torgal",
+"EncyDesc_BaatTorgalBio" : "SENIOR PERSONNEL ONLY
+
+Auxiliary Search & Rescue Target: Baat Torgal
+Position: Vice President of Torgaljin Corp.
+Status: Lost in space, Ariadne Arm
+Age at time of disappearance: 19
+
+    - The only child of Paal Torgal
+    - Beneficiary of enhanced learning techniques and cerebral implants
+    - Digi-trained in advanced biochemistry and stellar economics
+    - Mongolian emissary Khasar reports Baat was accompanying his father, Paal, to a newly constructed space station where he was to serve a five year term as Chief Operating Officer",
+
+
+"Ency_MargueritMaidaBio" : "Search & Rescue: Marguerit Maida",
+"EncyDesc_MargueritMaidaBio" : "SENIOR PERSONNEL ONLY
+
+Auxiliary Search & Rescue Target: Marguerit Maida
+Position: Security Personnel
+Status: Lost in space, Ariadne Arm
+Age at time of disappearance: 42
+
+    - Freelance mercenary, born in the Mongolian Empire
+    - Experienced in ship-to-ship and close quarters combat techniques
+    - Tours of duty with the Mongolian Defense Force and the Trans-Federation Military Police
+    - Dishonourably discharged from the TSA 15 years ago for going off mission (details classified)
+    - Mongolian emissary Khasar reports Maida was hired to accompany Paal Torgal onboard the Degasi into uncharted space and defend the ship in case of pirate assault",
+
+"Ency_AuroraLaunchNews" : "Alterra Launches the Aurora",
+"EncyDesc_AuroraLaunchNews" : "PHASEGATE ANNOUNCED FOR THE ARIADNE ARM: ALTERRA LAUNCHES THE AURORA
+
+The furthest reaches of inhabited space are due to expand, as Alterra Technologies launches the Aurora, a newly-constructed capital ship carrying state-of-the-art phasegate technology, bound for the Ariadne Arm. 
+
+The Aurora will travel from spacedock on the edge of Alterra space, making 324 consecutive warpgate jumps through nine different trans-gov authorities, and arrive on the far side of the Ariadne Arm of solar systems in approximately three months. From there the 100-strong crew will pilot the ship beyond the furthest warpgate, arriving in Solar System 84763 approximately 12 months later.
+
+There the elite team of engineers will begin a 6 month construction project which will see the new phasegate fully operational less than two years from today. The crew will be eager to complete the work on time, since the phasegate represents their fastest route home.
+
+Alterra Technologies currently operates 9% of all phasegates in the galaxy. If the Aurora's mission is successful Alterra will have outmaneuvered various private interests in the Mongolian Empire, which have to date established a number of outposts and mining operations in the region.
+
+The launch ceremony proceeded with the usual fanfare...",
+
+
+//////////////////////////////////////////
+//////////    LIFEPOD TEXTS    ///////////
+//////////////////////////////////////////
+"Ency_Lifepod1" : "Danby's Flight Recorder",
+"EncyDesc_Lifepod1" : "This is medical officer Danby, I'm breaking atmosphere at high velocity, planetfall in 20 seconds! *Explosion* Taking fire! Going into a spin! Attempting- *Static*",
+
+"Ency_Lifepod2" : "Lifepod Flight Recorder #1",
+"EncyDesc_Lifepod2" : "PASSENGER: We're sinking!
+CREW: Ma'am, I'm doing everything that I can!
+PASSENGER: Where are the support teams?!
+CREW: They're on their way, Ma'am!
+PASSENGER: That's not what he said on the radio!
+CREW: Ma'am, I have to ask you to stay where you are! The computer hasn't completed situational analysis, we've no idea what's out there!
+PASSENGER: I will not drown in here!
+CREW: Ma'am, come back, it's not safe!
+*Reaper sounds*",
+
+"Ency_Lifepod3" : "Engineers' Flight Recorder",
+"EncyDesc_Lifepod3" : "PDA: Situational analysis complete. Communications relay offline.
+ENGINEER 1: Frack it! How are we going to make the rendezvous without a radio signal?
+ENGINEER 2: We have a compass bearing. We'll have to do it the old fashioned way.
+ENGINEER 1: You want to fabricate a compass?
+ENGINEER 2: Why stop there? If we find the others, we can build stillsuits. Construct habitats. Maybe even make it to the Aurora and reactivate the interstellar communications. You have a welder?
+ENGINEER 1: Yeah I- Damn it, I left it in the exo bay.
+ENGINEER 2: Don't sweat.
+ENGINEER 1: No, I fracked up.
+ENGINEER 2: No, we can do this. All we need is some basic materials. This planet can't be barren. Let's get out there and find out.",
+
+"Ency_Lifepod4" : "Emissary Khasar's Flight Recorder",
+"EncyDesc_Lifepod4" : "Blackbox Data #345
+00:00 Lifepod systems online.
+00:03 Passenger 07 'Emissary Jochi Khasar' has boarded the lifepod.
+00:07 Lifepod launch sequence initiated.
+00:15 Lifepod detached from Aurora OK.
+00:17 Onboard microphones detecting voice communications, recording:
+'Our creators, who art gracious and merciful, hallowed be thy names. Praise be to you, the glorious one, the cherisher and sustainer of worlds. Give us this day our daily goods, and allow us our pleasures, as we allow those who seek pleasure from us.'
+
+00:33 Entering planetary atmosphere.
+00:35 External temperature approaching critical levels.
+
+00:37 'Show us the straight path, the path of those you favor. In Life, Truth, Love, the wholeness of reality. In Substance, Principle and Mind, man is its image and likeness. For ours is the power, we are the one. For ever and ever. Athem.'
+
+01:02 Exterior hull damage sustained.
+01:05 Life support systems failed.
+01:06 Impact imminent.",
+
+
+"Ency_LifepodSeaglide" : "Lifepod Voicelog #1",
+"EncyDesc_LifepodSeaglide" : "This may be my last report. The lifepod made planetfall intact, but now it's surrounded by some kind of aquatic alien predator. They're encased in a carapace armour, and attack the moment I open the hatches. The first one that came at me I attacked with the survival knife, but it got lodged in the armor layers. Tried distracting them with flares - no effect. No propulsion cannon available. No stasis rifle. No chance. 
+
+I've stripped some of the lifepod electrics to manufacture a seaglide. My only hope is I can outrun them. Wish me luck.",
+//Damaged seaglide and some flares on the ocean floor nearby.
+
+
+"Ency_LifepodKeenDialog" : "Officer Keen's Flight Recorder",
+"EncyDesc_LifepodKeenDialog" : "CAPTAIN: Keen! This is Aurora, come in!
+KEEN: I hear you, Captain!
+CAPTAIN: The computer has identified a landmass at the attached coordinates! I want you to regroup the crew there!
+KEEN: Understood, but-
+CAPTAIN: They're your responsibility now, don't let me down!
+KEEN: Captain, you need to evacuate!
+*Explosion aboard the Aurora*
+KEEN: Captain?!",
+
+"Ency_LifepodKeenLog" : "Officer Keen's Log #1",
+"EncyDesc_LifepodKeenLog" : "To all crew - If you are reading this then you have followed the automatic distress signal broadcast by this lifepod's onboard computer, contrary to protocol. My lifepod was damaged on impact and I am forced to evacuate. Your orders are to disregard my safety and attempt to reach the designated regroup co-ordinates at the nearest landmass. I hope to see you there.
+
+- Second Officer Keen",
+
+
+"Ency_LifepodCrashZone1" : "Lifepod Voicelog #2",
+"EncyDesc_LifepodCrashZone1" : "CREW: I need you to stay calm. The hull's secure. We're not in immediate danger.
+PASSENGER: Where are the rescue teams?!
+CREW: The Aurora didn't make it, Ma'am.
+PASSENGER: What do you mean?
+CREW: They're dead, ma'am. They're all dead.
+PASSENGER: What do you intend to do about it?
+CREW: We can't wait here for rescue. We're going to have to fabricate radiation suits and make for the crash site.
+PDA: Detecting local metal deposits.
+CREW: The PDA's interfacing with the fabricator okay. We'll have to go outside for the materials.
+PASSENGER: We?! It's your job, isn't it? To look after the passengers!
+CREW: Within reasonable parameters.
+PASSENGER: I beg your pardon?
+CREW: Forget it, I'll go. Just don't assume I'll find enough materials for the both of us.",
+
+"Ency_LifepodCrashZone2" : "Lifepod Voicelog #3",
+"EncyDesc_LifepodCrashZone2" : "*Hatch closes*
+CREW: *Coughing* Here, take this.
+PASSENGER: What do I do?!
+CREW: I pre-programmed the fabricator, just plug in the materials!
+FABRICATOR: Radiation suit fabricated.
+PASSENGER: It says there's only enough materials for one.
+CREW: It's all I could find. You'll have to take it.
+PASSENGER: To be clear, you want me to leave you here?
+CREW: Frack me, no! Find Officer Keen at the rendezvous, and send someone back for me with anti-rad meds, you incompetent, ungrateful-
+PASSENGER: Well if that's going to be your attitude-
