@@ -2396,4 +2396,401 @@ Assessment: Edible but meager",
 "EncyDesc_CoralSample" : "The giant coral tubes and slanted shell plates appear to be different solutions to the same problem of maximizing water and nutrient flow throughout the colony. Despite external differences these structures are built by very similar organisms on similar principles. Samples are rich in calcium.
 
 Assessment: Exploitable in bleach fabrication",
+       
+ "Ency_Crash" : "Crash",
+"EncyDesc_Crash" : "1. Impact-sensitive spikes: If the lifeform collides with something at sufficient speed these spikes are impacted, triggering an internal chemical reaction.
 
+2. Suction snout: Likely adapted to vacuum up small insects and grubs in cave systems.
+
+3. Chemical storage organ: concentrations of sulfur build up in this organ over time, and can be deployed as an explosive last line of defense during the nesting phase.
+
+Data points to an evolved symbiosis with the crash plant. Hypothesis: the plant evolved to feed on sulphuric compounds secreted by the crash. Stronger, more protective plants provided superior nesting grounds, which in turn benefited the plant with more nutrients, and the co-operative cycle continued.
+
+Assessment: Avoid or incapacitate",
+
+        "Ency_CrashLair" : "Crash Plant",
+"EncyDesc_CrashLair" : "This plant species appears to share a symbiotic relationship with the aquatic lifeform that nests inside it. The petal-like structures appear undamaged when the lifeform emerges, and likely remain open until the nest is reclaimed by the original owner, or another.
+
+Further information on this relationship is not possible from studying the plant in isolation.
+
+Trace amounts of a sulphuric residue have been detected on the inner leaves.
+
+Assessment: Exploitable",
+
+
+
+
+
+///////////////////
+////KELP FOREST////
+///////////////////
+
+                "Ency_Creepvine" : "Creepvine",
+"EncyDesc_Creepvine" : "A kelp species concentrated in large forests, in shallow, sandy waters. Loose roots anchor the plant to the sea floor, from where it grows steadily toward the surface in pursuit of sunlight.
+
+The stem is fibrous and rich in iron, making it both a viable food stuff, and base material for fabrication of textiles such as rope and bandages.
+
+Predators: Hoverfish, eyeye, rabbit ray, peeper
+
+Assessment: Vital alien resource - Edible - Medicinal - Construction Applications",
+
+                "Ency_CreepvineSeeds" : "Creepvine Seeds",
+"EncyDesc_CreepvineSeeds" : "Mature creepvine plants that have survived the predation of small herbivores produce these bioluminescent seed clusters, which may be knocked loose by currents or consumed and later deposited by predators. 
+
+The embryo is surrounded by a thick oil layer which would disperse into the ground as the outer skin deteriorated. This may provide the seedling with the nutrients it needs to survive the low-light conditions on the sea bed.
+
+Assessment: Exploitable oils",
+
+    "Ency_Eyeye" : "Eyeye",
+"EncyDesc_Eyeye" : "An extreme evolutionary adaptation where 90% of the body mass is dedicated to the ocular cavity. 
+
+- Specialized in identifying its predators in low-light environments long before they come into range
+- No brain, just a nervous system
+- Too stupid to avoid predators at close range
+- Vulnerable to surprise attack, implies natural prey of the sand shark
+
+Assessment: Edible and easy to catch once spotted",
+
+
+    "Ency_Hoverfish" : "Hoverfish",
+"EncyDesc_Hoverfish" : "Six unique limb appendages feature charged pads capable of ionizing the surrounding water. The hoverfish appears to use this ability to maintain its position against the current as it feeds from kelp and lichen.
+
+Assessment: Edible, a healthy staple",
+
+
+    "Ency_Biter" : "Biter",
+"EncyDesc_Biter" : "Small, aggressive specimen. 94% muscle, 4% connective tissue, 2% brain. 
+
+- Overdeveloped tail fin favors out-pacing and outnumbering their prey over individual maneuverability
+- Specialized olfactory stalk on its head for detection of bodily fluids in the water
+- Likely indiscriminate when hunting: anything injured is fair game
+- Secondary pair of eyes bear similarities to the sand shark's. Likely dedicated to detecting the peripheral movement of larger predators. 
+
+Prey: Small herbivores; but according to calculations creatures up to 100x the biter's body weight could succumb to a focused pack.
+
+Assessment: Lethal without proper precautions - Avoid packs - Try not to bleed",
+
+
+    "Ency_Stalker" : "Stalker",
+"EncyDesc_Stalker" : "A streamline predator with developed intelligence and strength. 
+
+- Found in the kelp forests, in wait of prey leaving the safety of the shallows
+- Retinal layering suggests adaptation for night-time hunting
+- Neural pathways indicate innate ability for reward-based learning; evolutionary explanation unclear at this time
+- Attracted to metals. Will fight fiercely over its hoard. No explanation available for this behavior. Further research required.
+
+Prey: Evolutionary profile fits natural predator of the peeper
+
+Assessment: Coerce or avoid",
+
+
+    "Ency_SandShark" : "Sand Shark",
+"EncyDesc_SandShark" : "A segmented exoskeleton makes this a slow but powerful predator. The rows of feet on the lifeform's underside are ill-designed for ambulation - instead they are used to disturb the surface of the sand so the lifeform can burrow into the ground, from where it may ambush its prey.
+
+Prey: Herbivores up to twice its size
+
+Assessment: Avoid suspicious sand clouds",
+
+
+        "Ency_Bleeder" : "Bleeder",
+"EncyDesc_Bleeder" : "A simple parasitic organism, little more evolved than the common tick. 
+
+Identifying features include a ductile sack on its rear end for collection and digestion of blood; and a jaw with rows of teeth and mandibles used to attach to the skin of its victims.
+
+Prey: Known to target live organisms, the bleeder's low speed and poor defenses suggest they have evolved primarily as carrion feeders.
+
+Assessment: Inconvenient and unhygienic",
+
+
+        "Ency_StalkerTooth" : "Stalker Behavior & Physiology",
+"EncyDesc_StalkerTooth" : "Extended analysis of stalker dental samples has been completed.
+
+In other local lifeforms tooth composition follows a familiar biological process whereby a calcified structure is grown in the gum.
+
+Stalker teeth are unique in exhibiting extraordinary lightness and strength, and containing only trace amounts of calcium. They gain their structural integrity from a titanium/iron compound somehow produced in the stalker's body.
+
+This suggests some possible explanations for the creature's metal-gathering behavior, but raises more questions:
+
+- By what process can the stalker convert raw metals into dental structure?
+- What explains this seemingly costly evolutionary adaptation? An armored opponent? A calcium shortage?
+
+Assessment: More research required.",
+
+
+
+
+///////////////////////
+////GRASSY PLATEAUS////
+///////////////////////
+
+        "Ency_Spadefish" : "Spadefish",
+"EncyDesc_Spadefish" : "A common herbivore that seems to avoid shallower waters in favor of swimming near to the seabed from where it can keep its one eye on would-be predators in the water above it. Recently observed specimens have high concentrations of a poisonous enzyme - may be a seasonal stage of their lifecycle. Continue to observe.
+
+Assessment: Edible, substantial",
+
+
+        "Ency_Reginald" : "Reginald",
+"EncyDesc_Reginald" : "A common prey fish. Dull green coloration for deep water camouflage. Luminescent tail coloration likely part of mating behavior. Filters loose algae and other plant material from the water via four gill-like, front-mounted orifices.
+
+Assessment: Edible, substantial",
+
+
+        "Ency_TigerPlant" : "Tiger Plant",
+"EncyDesc_TigerPlant" : "This plant has adapted to sense fluctuations in the water at up to 15m, and is capable both of prehensile movement of its tubes, as well as the propelling of thorns at speeds of up to 10m/s.
+
+Although capable of incapacitating small herbivores, this plant lacks carnivorous digestive organs. Would-be predators caught in its defensive perimeter serve as a warning to other herbivores not to approach; and then as they decompose they serve as fertilizer for the tiger plant.
+
+Assessment: Avoid or incapacitate",
+
+
+        "Ency_BloodGrass" : "Blood Grass",
+"EncyDesc_BloodGrass" : "A common sea grass adapted to shallow, sandy environments. 
+
+- Likely to grow wherever the ground is too loose or the ocean surface too far for creepvines to take hold
+- Commonly found growing on the crests of dunes and atop raised plateaus for superior access to sunlight
+- Distinctive red coloration may be an adaptation to low wavelength light on the seabed, a deterrent against predators, or both
+- Insufficient calories for human consumption
+
+Predators: Reginald, spadefish, boomerang
+
+Assessment: Presence supports healthy biodiversity",
+
+
+        "Ency_TreeLeech" : "Tree Leech",
+"EncyDesc_TreeLeech" : "Parasitic, fungus-like growth found attached to other fauna. An enzyme is released by the organism which dissolves a hole in the skin of the host, from which it leeches nutrients directly.
+
+Outer, tooth-lined jaw serves no identified purpose. May be used during a different stage of the organism's lifecycle?
+
+Assessment: Exploitable fungal enzymes",
+
+
+        "Ency_TreeMushroom" : "Tree Mushrooms",
+"EncyDesc_TreeMushroom" : "Analysis of these large organic structures reveals a microcosm of co-operating, co-habiting and competing lifeforms.
+
+The main trunk is a species of coral, some colonies up to 50,000 years old. The caps which line it share more in common with earth fungi. Other organisms grow on the structure wherever there is space and light.
+
+Surrounding waters are dense with herbivorous lifeforms in the 1mm - 10mm range, to the extent that larger herbivores appear to have mostly abandoned the area.
+
+Assessment: Exploitable",
+
+
+        "Ency_Jellyray" : "Jellyray",
+"EncyDesc_Jellyray" : "Shares some evolutionary traits with the rabbit ray, including highly poisonous flesh. This species has adapted to low-light environments with a translucent, luminescent body. This may help to:
+
+- Light up the surrounding area for foraging
+- Ward away predators
+- Identify the organism to others of its kind
+
+Smaller creatures have been seen swimming in the jellyray's wake to take advantage of the light source for their own ends.
+
+Assessment: Inedible",
+
+
+        "Ency_Mesmer" : "Mesmer",
+"EncyDesc_Mesmer" : "Small, carnivorous lifeform with a unique hunting mechanism that allows it to catch prey twice its size. 
+
+The mesmer waits until a larger carnivore approaches before opening its outer wings. Predators become transfixed by the shimmering pattern, at which point the mesmer opens the jawlike recess in its protective shell and attempts to eat its victim alive, or incapacitate it long enough to escape.
+
+Assessment: Avoid",
+
+
+        "Ency_Reefback" : "Reefback",
+"EncyDesc_Reefback" : "Armor plating on these huge lifeforms is thick enough to interfere with the spectroscope scanner. Limited data available.
+
+Size ranges upwards of 20m. Tentacles provide low speed propulsion. Sociable, seen traveling in small pods. Profile consistent with a herbivore near the top of the food chain.
+
+Predators: Unknown
+
+Assessment: None at this time",
+
+
+
+
+///////////////////////
+////MIDGAME TECH///////
+///////////////////////
+
+        "Ency_ModificationStation" : "Modification Station",
+"EncyDesc_ModificationStation" : "Where the standard fabricator atomically rearranges raw materials to form complex devices, the mod station is able to combine complex devices to enhance their function.
+
+Most industrial vessels are fitted with a complement of equipment modification stations, which enable engineers to adapt their tools for emergent situations on the fly.
+
+To conserve hard drive space the modification station is excluded by default from most personal emergency blueprint libraries; however extreme environments such as ocean and desert class planets may necessitate the adaptation of basic survival tools (such as the knife and oxygen tanks) for unanticipated applications. For this reason access to a mod station is always recommended.",
+
+
+        "Ency_StasisRifle" : "Stasis Rifle",
+"EncyDesc_StasisRifle" : "The stasis rifle uses patented technology to slow time in a specified area to as near to a full stop as the laws of physics will permit. It is an advanced, handheld tool designed to facilitate scientific and engineering operations by expanding the window of opportunity for action in time-sensitive scenarios.
+
+Common applications include:
+
+ - Slowing fast-moving mechanisms, such as fan belts, to facilitate maintenance operations
+ - Pausing the biological processes of organisms for closer study
+ - Halting the progress of fires and flooding
+ - Navigating perilous spaces by freezing potential threats
+
+The stasis rifle features an independent, replaceable power cell, and the trigger may be held down to increase the area of effect and duration.
+
+Due to high power consumption and non-lethality, conventional weapons are recommended for personal defense.",
+
+
+        "Ency_PropulsionCannon" : "Propulsion Cannon",
+"EncyDesc_PropulsionCannon" : "The propulsion cannon allows technicians to manipulate gravitational forces at ranges of up to 20m. It is commonly used in construction and mining to move materials.
+
+Operating Instructions:
+
+ - Pull the trigger once to lock onto and attract a single targeted object weighing less than 25kg
+ - The object can now safely be retrieved from the gravitational beam
+ - Alternatively, pull the trigger a second time to propel the object at speed away from the device
+ - Not recommended for use on organic subjects",
+
+        "Ency_Seamoth" : "Seamoth",
+"EncyDesc_Seamoth" : "The seamoth is a one-person submersible with an independent, replaceable power cell and a fully customizable design. Most long-range mining vessels carry at least two submersibles of this class to facilitate the exploration and exploitation of water-bearing planetoids.
+
+Ratings: 
+ - Top Speed: 13m/s
+ - Acceleration: 5m/s/s
+ - Distance per power cell: 10km
+ - Crush depth: 225m below sea level 
+ - Upgrade module slots: 4
+ - Dimensions: 3m x 1.5m x 1m
+ - Persons: 1
+
+Seamoths may be modified by installing upgrade modules to the access point mounted by default on the upper left wing. These include:
+
+ - Increased cargo storage
+ - Superior power 
+ - Pressure and collision compensation
+ - Enhanced sonar
+ - Defensive capabilities
+
+NB These modules may only be manufactured at an appropriately outfitted moonpool or submersible bay.",
+
+
+         "Ency_SeamothConfigs" : "Seamoth Configurations Catalog",
+"EncyDesc_SeamothConfigs" : "Cargo Hauler: 3x storage; 1x solar charger
+Scout: 1x pressure compensator; 1x power efficiency; 1x perimeter defense; 1x sonar;
+Tank: 1x perimeter defense; 1x torpedo system; 2x hull reinforcement",
+
+        "Ency_Builder" : "All-terrain Quick-build Habitats",
+"EncyDesc_Builder" : "The Alterra handheld habitat builder has been an essential tool of xenoscientists, colonists and emergency relief crews across seven different empires for more than 50 years.
+
+Habitat modules are hermetically sealed from the outside environment, and may be built on land, underwater, or in a vacuum. Oxygen and power systems are not fitted as standard and must be built separately. Most capital ships carry a full complement of advanced modules and reactors for quick deployment in the field.
+
+Habitats can be enhanced to become long-term homes, remote research stations, defensive outposts and more.",
+
+
+        "Ency_Moonpool" : "Moonpool",
+"EncyDesc_Moonpool" : "The moonpool is an essential habitat module for long-term exploration of oceanic environments. Its primary function is as a dry dock for the seamoth submersible (seamoth not included).
+
+The large central chamber contains a pressurized pool which provides ready access to the surrounding waters, and comes as standard with equipment for raising and recharging the seamoth.
+
+It is recommended the builder tool be used to outfit the moonpool with a seamoth modification station at your earliest convenience. This will enable the fabrication of seamoth upgrade modules, amongst other things.
+
+Ratings:
+ - Dimensions: 16m x 10m x 5m
+ - Connection points: 6
+ - Habitat hull strength liability at sea level: -5 (equivalent 4 rooms)
+ - Capacity: 1 seamoth
+ - High power consumption",
+
+
+    "Ency_BasePlanter" : "Planters & Pots",
+    "EncyDesc_BasePlanter" : "Interior planters come in a variety of configurations, and allow for most plant species to be grown in small numbers. For decorative or botanical use.",
+
+    "Ency_FarmingTray" : "Exterior Growbed",
+    "EncyDesc_FarmingTray" : "Advanced synthetic soils allow this growbed to support a huge variety and quantity of alien plantlife, and it can be installed anywhere on land or underwater where there is space.",
+
+    "Ency_PlanterBox" : "Interior Growbed",
+    "EncyDesc_PlanterBox" : "Designed for use exclusively inside regulated habitat modules, the interior growbed is more compact than the outdoor version.",
+
+    "Ency_WaterFilter" : "Water Filtration Machine",
+    "EncyDesc_WaterFilter" : "The filtration system draws water unfit for human consumption from an external source, atomically splits it into its constituent parts and outputs consumable liquid water and salts while disposing of any harmful by-product. It can be built in any compatible habitat module, but has substantial power requirements.",
+
+
+         "Ency_Techlight" : "Floodlight",
+"EncyDesc_Techlight" : "The standard issue floodlight is battery-powered, and designed to focus a bright beam of light in a single direction, useful in all kinds of industrial and emergency operations. Functions in all known environments. The battery is replaceable.",
+         "Ency_Techlight" : "Floodlight",
+"EncyDesc_Techlight" : "The standard issue floodlight is battery-powered, and designed to focus a bright beam of light in a single direction, useful in all kinds of industrial and emergency operations. Functions in all known environments. The battery is replaceable.",
+
+         "Ency_LEDLight" : "Light Stick",
+"EncyDesc_LEDLight" : "A mobile, battery-powered LED light, which provides low-level lighting in a 360 degree area, and can be attached to most surfaces.",
+
+         "Ency_Spotlight" : "Spotlight",
+"EncyDesc_Spotlight" : "",
+
+
+//////////////////////
+////FARMING PLANTS////
+//////////////////////
+
+         "Ency_HangingFruitTree" : "Hanging Fruit Tree",
+"EncyDesc_HangingFruitTree" : "Tree with big orange fruits",
+
+         "Ency_BulboTree" : "Bulbo Tree",
+"EncyDesc_BulboTree" : "Looks like a tree",
+
+         "Ency_WhiteMushroom" : "Deep Shroom",
+"EncyDesc_WhiteMushroom" : "",
+
+         "Ency_PinkMushroom" : "Pink Mushroom",
+"EncyDesc_PinkMushroom" : "It's definitely a mushroom",
+
+         "Ency_PurpleRattle" : "Purple Rattle",
+"EncyDesc_PurpleRattle" : "",
+
+         "Ency_PurpleVasePlant" : "Purple Vase Plant",
+"EncyDesc_PurpleVasePlant" : "",
+
+         "Ency_OrangeMushroom" : "Orange Mushroom",
+"EncyDesc_OrangeMushroom" : "Large Orange Mushroom",
+
+         "Ency_VegetablePlant" : "Vegetable Plant",
+"EncyDesc_VegetablePlant" : "",
+
+         "Ency_MelonPlant" : "Marblemelon Plant",
+"EncyDesc_MelonPlant" : "",
+
+         "Ency_KooshBush" : "Koosh Bush",
+"EncyDesc_KooshBush" : "",
+
+         "Ency_BluePalm" : "Blue Palm",
+"EncyDesc_BluePalm" : "",
+
+         "Ency_SmallFan" : "Pygmy Fan",
+"EncyDesc_SmallFan" : "",
+
+         "Ency_PurpleFan" : "Purple Fan",
+"EncyDesc_PurpleFan" : "",
+
+         "Ency_WrithingWeed" : "Writhing Weed",
+"EncyDesc_WrithingWeed" : "",
+
+         "Ency_GabeSFeather" : "Gabe's Feather",
+"EncyDesc_GabeSFeather" : "",
+
+         "Ency_SeaCrown" : "Sea Crown",
+"EncyDesc_SeaCrown" : "",
+
+         "Ency_MembrainTree" : "Membrain Tree",
+"EncyDesc_MembrainTree" : "",
+
+         "Ency_PinkFlower" : "Pink Flower",
+"EncyDesc_PinkFlower" : "",
+
+         "Ency_FernPalm" : "Fern Palm",
+"EncyDesc_FernPalm" : "",
+
+         "Ency_OrangePetalsPlant" : "Orange Petals Plant",
+"EncyDesc_OrangePetalsPlant" : "",
+
+         "Ency_EyesPlant" : "Eyes Plant",
+"EncyDesc_EyesPlant" : "",
+
+         "Ency_RedGreenTentacle" : "Red Green Tentacle",
+"EncyDesc_RedGreenTentacle" : "",
+
+         "Ency_PurpleStalk" : "Purple Stalk",
+"EncyDesc_PurpleStalk" : "",
+
+         "Ency_RedBasketPlant" : "Red Basket Plant",
+"EncyDesc_RedBasketPlant" : ""
