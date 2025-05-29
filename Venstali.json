@@ -2793,4 +2793,50 @@ Ratings:
 "EncyDesc_PurpleStalk" : "",
 
          "Ency_RedBasketPlant" : "Red Basket Plant",
-"EncyDesc_RedBasketPlant" : ""
+         "Ency_RedBasketPlant" : "Red Basket Plant",
+"EncyDesc_RedBasketPlant" : "",
+
+         "Ency_RedBush" : "Red Bush",
+"EncyDesc_RedBush" : "",
+
+         "Ency_RedConePlant" : "Red Cone Plant",
+"EncyDesc_RedConePlant" : "",
+
+         "Ency_ShellGrass" : "Shell Grass",
+"EncyDesc_ShellGrass" : "",
+
+         "Ency_SpottedLeavesPlant" : "Spotted Leaves Plant",
+"EncyDesc_SpottedLeavesPlant" : "",
+
+         "Ency_RedRollPlant" : "Red Roll Plant",
+"EncyDesc_RedRollPlant" : "",
+
+         "Ency_PurpleBranches" : "Purple Branches",
+"EncyDesc_PurpleBranches" : "",
+
+         "Ency_SnakeMushroom" : "Snake Mushroom",
+"EncyDesc_SnakeMushroom" : "",
+
+         "Ency_BloodVine" : "BloodVine",
+"EncyDesc_BloodVine" : "",
+
+
+//////////////////////////
+////UNSORTED CREATURES////
+//////////////////////////
+
+         "Ency_SeaTreader" : "Sea Treader",
+"EncyDesc_SeaTreader" : "",
+
+         "Ency_ReaperLeviathan" : "Reaper Leviathan",
+"EncyDesc_ReaperLeviathan" : "",
+
+         "Ency_Crabsquid" : "Crabsquid",
+"EncyDesc_Crabsquid" : "",
+
+         "Ency_Warper" : "Warper",
+"EncyDesc_Warper" : ""
+ }
+
+
+
